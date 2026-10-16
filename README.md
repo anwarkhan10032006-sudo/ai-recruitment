@@ -132,4 +132,6 @@ A license has not yet been selected. An appropriate license can be added when th
 **Ready for your GitHub repository:** `ai-recruitment`
 
 The README describes the planned system without committing the team to a particular AI model, API, framework, or database before those decisions are made.
+
+
 ```
